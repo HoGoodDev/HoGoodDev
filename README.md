@@ -38,9 +38,8 @@ I like making real impacts through technology and solving problems with code.
 
 ---
 
-**Contribution Graph**
+**GitHub Streak & Contributions**
 
 <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=HoGoodDev&theme=radical" alt="GitHub activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoGoodDev&theme=radical" alt="GitHub streak" />
 </p>
-
