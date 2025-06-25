@@ -25,5 +25,5 @@
 **Contact**
 
 - Email: HoGoodeDev@gmail.com  
-- LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/holly-goodwill/))
+- LinkedIn: [linkedin.com/in/yourprofile][https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/holly-goodwill/)
 
