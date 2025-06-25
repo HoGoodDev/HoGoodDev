@@ -1,4 +1,4 @@
-# Hi, I'm Holly Goodwill
+# Hi, I'm Holly Goodwill :)
 
 ---
 
