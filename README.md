@@ -24,6 +24,6 @@
 
 **Contact**
 
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: HoGoodeDev@gmail.com  
+- LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/holly-goodwill/))
 
