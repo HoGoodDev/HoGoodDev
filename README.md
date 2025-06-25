@@ -25,7 +25,6 @@ I like making real impacts through technology and solving problems with code.
 **GitHub Stats**
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HoGoodDev&show_icons=true&theme=radical" alt="GitHub stats" />
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=HoGoodDev&show_icons=true&theme=radical" alt="GitHub stats" /
 </p>
 
