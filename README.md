@@ -29,9 +29,3 @@ I like making real impacts through technology and solving problems with code.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoGoodDev&theme=radical" alt="GitHub streak" />
 </p>
 
----
-
-**Contact**
-
-- Email: HoGoodeDev@gmail.com  
-- LinkedIn: [linkedin.com/in/holly-goodwill](https://www.linkedin.com/in/holly-goodwill/)
