@@ -33,6 +33,10 @@ I like making real impacts through technology and solving problems with code.
 
 **Top Languages**
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HoGoodDev&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HoGoodDev&theme=radical" />
+</p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoGoodDev&layout=compact&theme=radical" alt="Top languages" />
 </p>
