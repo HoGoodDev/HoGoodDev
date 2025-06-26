@@ -34,10 +34,5 @@ I like making real impacts through technology and solving problems with code.
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HoGoodDev&theme=radical" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HoGoodDev&theme=radical" alt="Most used languages by commits" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoGoodDev&langs_count=10&layout=compact&theme=radical" alt="Top languages by code size" />
 </p>
