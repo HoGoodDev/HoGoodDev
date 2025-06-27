@@ -1,10 +1,10 @@
-# Hi, I'm Holly Goodwill (/≧▽≦)/
+# Hi, I'm Holly Goodwill :D
 
 ---
 
 ## About Me
 
-I’m a 17-year-old developer.  
+I’m a 17 year old developer.  
 I like making real impacts through technology and solving problems with code.
 
 ---
