@@ -44,10 +44,10 @@
   <a href="https://www.instagram.com/goodwillholly__/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff66cc" alt="Instagram" />
   </a>
-  <a href="discordapp.com/users/holliejolli_" target="_blank">
+  <a href="https://discordapp.com/users/holliejolli_" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white&color=ff66cc" alt="Discord" />
   </a>
-  <a href="www.youtube.com/@HollieJolli" target="_blank">
+  <a href="https://www.youtube.com/@HollieJolli" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=ff66cc" alt="YouTube" />
   </a>
 </p>
