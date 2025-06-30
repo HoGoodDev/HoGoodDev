@@ -54,14 +54,13 @@
 
 <hr style="border: none; height: 2px; background: #ff99cc;" />
 
-<h2 style="color: #ff66cc;"> Aesthetic Vibes</h2>
-
-<div style="background: #fff0f6; padding: 12px; border-radius: 20px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRlNTN5anRrczVnOHpyc2ZjZmh1eGk1ZWcyMG5oMDRiMm0zbGw1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mQan4KV9MNoJy/giphy.gif" alt="pink cherry blossom gif" style="width: 100%; max-width: 700px; border-radius: 20px;" />
-</div>
 
 <hr style="border: none; height: 2px; background: #ff99cc;" />
 
 <p align="center" style="color: #ff66cc; font-weight: bold;">
-  💗 Thanks for stopping by! Made with pink, code, and coffee ☕🌸
+   Thanks for stopping by!
 </p>
+
+<div style="background: #fff0f6; padding: 12px; border-radius: 20px;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRlNTN5anRrczVnOHpyc2ZjZmh1eGk1ZWcyMG5oMDRiMm0zbGw1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mQan4KV9MNoJy/giphy.gif" alt="pink cherry blossom gif" style="width: 100%; max-width: 700px; border-radius: 20px;" />
+</div>
