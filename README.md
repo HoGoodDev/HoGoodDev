@@ -12,7 +12,7 @@ Coding + coffee = my happy place
 
 ## Technologies & Tools
 
-<p align="center">
+<p align="left" style="display: flex; gap: 12px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
@@ -24,42 +24,39 @@ Coding + coffee = my happy place
 
 ---
 
-## GitHub Stats
+## GitHub Stats & Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoGoodDev&show_icons=true&theme=pink&title_color=ff66cc&icon_color=ff66cc&text_color=ff99cc&bg_color=fff0f6" alt="GitHub stats" />
+<p align="left" style="display: flex; gap: 24px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=HoGoodDev&show_icons=true&theme=pink&title_color=ff66cc&icon_color=ff66cc&text_color=ff99cc&bg_color=fff0f6" alt="GitHub stats" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoGoodDev&langs_count=10&layout=compact&theme=pink&title_color=ff66cc&icon_color=ff66cc&text_color=ff99cc&bg_color=fff0f6" alt="Top languages by code size" width="350" />
 </p>
 
 ---
 
-## Top Languages
+## Social Media 🌸 & Visitor Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoGoodDev&langs_count=10&layout=compact&theme=pink&title_color=ff66cc&icon_color=ff66cc&text_color=ff99cc&bg_color=fff0f6" alt="Top languages by code size" />
-</p>
-
----
-
-## Social Media 🌸
-
-<p align="center">
+<p align="left" style="display: flex; gap: 16px; flex-wrap: wrap;">
   <a href="https://instagram.com/yourinstagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff66cc" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://twitter.com/yourtwitter" target="_blank">
     <img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=ff66cc" alt="Twitter/X" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://youtube.com/youryoutube" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=ff66cc" alt="YouTube" />
   </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HoGoodDev.visitor&style=plastic&color=ff66cc&countColor=ff99cc" alt="Visitor Count" />
+  <img src="https://img.shields.io/github/followers/HoGoodDev?label=Followers&style=for-the-badge&color=ff66cc&logo=github&logoColor=fff" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/HoGoodDev?style=for-the-badge&color=ff66cc&logo=github&logoColor=fff" alt="Stars" />
+  <img src="https://img.shields.io/github/issues-pr/HoGoodDev?style=for-the-badge&color=ff66cc&logo=git-pull-request&logoColor=fff" alt="Pull Requests" />
 </p>
 
 ---
 
+## Cute Cherry Blossoms for You! 🌸💕
+
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRlNTN5anRrczVnOHpyc2ZjZmh1eGk1ZWcyMG5oMDRiMm0zbGw1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mQan4KV9MNoJy/giphy.gif" width="400" alt="pink cherry blossom gif" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRlNTN5anRrczVnOHpyc2ZjZmh1eGk1ZWcyMG5oMDRiMm0zbGw1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mQan4KV9MNoJy/giphy.gif" alt="pink cherry blossom gif" style="width: 100%; max-width: 900px;" />
 </p>
 
 ---
