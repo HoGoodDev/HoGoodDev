@@ -58,17 +58,10 @@ Coding + coffee = my happy place
 
 ---
 
-## Cute Cherry Blossoms for You! 🌸💕
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3oz8xLd9DJq2l2VFtu/giphy.gif" width="150" alt="cherry blossoms gif" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/xUOwGgCv4UDRER5p6k/giphy.gif" width="150" alt="pink sakura petals" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/jpUbDNgdPqvw1UQ04T/giphy.gif" width="150" alt="soft pink sakura" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRlNTN5anRrczVnOHpyc2ZjZmh1eGk1ZWcyMG5oMDRiMm0zbGw1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mQan4KV9MNoJy/giphy.gif" width="400" alt="pink cherry blossom gif" />
 </p>
 
 ---
 
 ## Thanks for stopping by! <3
-
