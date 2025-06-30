@@ -6,7 +6,6 @@
 
 I’m a 17 year old developer.  
 I love making real impacts through technology and solving problems with code.  
-Coding + coffee = my happy place 
 
 ---
 
@@ -56,7 +55,6 @@ Coding + coffee = my happy place
 
 ---
 
-## Cute Cherry Blossoms for You! 🌸💕
 
 <p align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRlNTN5anRrczVnOHpyc2ZjZmh1eGk1ZWcyMG5oMDRiMm0zbGw1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mQan4KV9MNoJy/giphy.gif" alt="pink cherry blossom gif" style="width: 100%; max-width: 700px;" />
