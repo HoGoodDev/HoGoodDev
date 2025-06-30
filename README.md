@@ -54,14 +54,48 @@ Coding + creativity = my happy place! 🎀✨
 
 ---
 
-## Cute Coding GIFs! 🐰💻
+## Social Media 🌸
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="coding bunny" />
+  <a href="https://instagram.com/yourinstagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff66cc" alt="Instagram" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/xUOwGimlDz0CgRV5Pa/giphy.gif" width="200" alt="pink computer" />
+  <a href="https://twitter.com/yourtwitter" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=ff66cc" alt="Twitter/X" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/jpqN9vG4lkuVi/giphy.gif" width="200" alt="happy coder" />
+  <a href="https://youtube.com/youryoutube" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=ff66cc" alt="YouTube" />
+  </a>
+</p>
+
+---
+
+## Projects Showcase 🌷
+
+<p align="center">
+
+### Project 1: [Project Name](https://github.com/HoGoodDev/project1)  
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="cherry blossom gif" />
+
+---
+
+### Project 2: [Project Name](https://github.com/HoGoodDev/project2)  
+<img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="300" alt="soft pink flowers gif" />
+
+</p>
+
+---
+
+## Cute Cherry Blossoms for You! 🌸💕
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oz8xLd9DJq2l2VFtu/giphy.gif" width="150" alt="cherry blossoms gif" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/xUOwGgCv4UDRER5p6k/giphy.gif" width="150" alt="pink sakura petals" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/jpUbDNgdPqvw1UQ04T/giphy.gif" width="150" alt="soft pink sakura" />
 </p>
 
 ---
