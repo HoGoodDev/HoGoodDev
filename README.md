@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
 </p>
-czx
+
 <hr style="border: none; height: 2px; background: #ff99cc;" />
 
 ## 🌸  GitHub Stats
@@ -41,13 +41,13 @@ czx
 ## 🌸 Social Media
 
 <p align="left">
-  <a href="https://instagram.com/yourinstagram" target="_blank">
+  <a href="https://www.instagram.com/goodwillholly__/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff66cc" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/yourdiscord" target="_blank">
+  <a href="discordapp.com/users/holliejolli_" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white&color=ff66cc" alt="Discord" />
   </a>
-  <a href="https://youtube.com/youryoutube" target="_blank">
+  <a href="www.youtube.com/@HollieJolli" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=ff66cc" alt="YouTube" />
   </a>
 </p>
