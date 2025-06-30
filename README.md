@@ -8,9 +8,6 @@
 
 <hr style="border: none; height: 2px; background: #ff99cc;" />
 
-
-<hr style="border: none; height: 2px; background: #ff99cc;" />
-
 ## 🌸  GitHub Stats
 
 <p align="left">
