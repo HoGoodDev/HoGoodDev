@@ -25,10 +25,10 @@ I like making real impacts through technology and solving problems with code.
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=HoGoodDev&show_icons=true&theme=radical" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=HoGoodDev&show_icons=true&theme=pink&title_color=ff66cc&icon_color=ff66cc&text_color=ff99cc&bg_color=fff0f6" alt="GitHub stats" />
 
 ---
 
 ## Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoGoodDev&langs_count=10&layout=compact&theme=radical" alt="Top languages by code size" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoGoodDev&langs_count=10&layout=compact&theme=pink&title_color=ff66cc&icon_color=ff66cc&text_color=ff99cc&bg_color=fff0f6" alt="Top languages by code size" />
