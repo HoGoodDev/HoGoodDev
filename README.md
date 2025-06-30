@@ -1,4 +1,4 @@
-# Hi, I'm Holly Goodwill! 💖🌸
+# Hi, I'm Holly Goodwill! 
 
 ---
 
@@ -6,7 +6,7 @@
 
 I’m a 17 year old developer.  
 I love making real impacts through technology and solving problems with code.  
-Coding + creativity = my happy place! 🎀✨
+Coding + coffee = my happy place 
 
 ---
 
@@ -40,20 +40,6 @@ Coding + creativity = my happy place! 🎀✨
 
 ---
 
-## Connect with me 💌
-
-<p align="center">
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=HoGoodDev.visitor&style=plastic&color=ff66cc&countColor=ff99cc)
-  &nbsp;&nbsp;
-  ![Followers](https://img.shields.io/github/followers/HoGoodDev?label=Followers&style=for-the-badge&color=ff66cc&logo=github&logoColor=fff)
-  &nbsp;&nbsp;
-  ![Stars](https://img.shields.io/github/stars/HoGoodDev?style=for-the-badge&color=ff66cc&logo=github&logoColor=fff)
-  &nbsp;&nbsp;
-  ![Pull Requests](https://img.shields.io/github/issues-pr/HoGoodDev?style=for-the-badge&color=ff66cc&logo=git-pull-request&logoColor=fff)
-</p>
-
----
-
 ## Social Media 🌸
 
 <p align="center">
@@ -72,22 +58,6 @@ Coding + creativity = my happy place! 🎀✨
 
 ---
 
-## Projects Showcase 🌷
-
-<p align="center">
-
-### Project 1: [Project Name](https://github.com/HoGoodDev/project1)  
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="cherry blossom gif" />
-
----
-
-### Project 2: [Project Name](https://github.com/HoGoodDev/project2)  
-<img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="300" alt="soft pink flowers gif" />
-
-</p>
-
----
-
 ## Cute Cherry Blossoms for You! 🌸💕
 
 <p align="center">
@@ -100,8 +70,5 @@ Coding + creativity = my happy place! 🎀✨
 
 ---
 
-## Thanks for stopping by! ✨🌷
-
-Feel free to connect or say hi — I’m always up for talking code and creativity! 💕  
-Happy coding! 💖🌸
+## Thanks for stopping by! <3
 
