@@ -2,27 +2,27 @@
 
 <hr style="border: none; height: 2px; background: #ff99cc;" />
 
-<div style="background-color: #fff0f6; padding: 12px; border: 2px dashed #ff99cc; border-radius: 12px; color: #ff66cc; font-weight: bold;">
-   I’m a 17 year old developer who loves making real impacts through technology and solving problems with code.
+<div align="center">
+  <strong style="color: #ff66cc;">I’m a 17 year old developer who loves making real impacts through technology and solving problems with code.</strong>
 </div>
 
 <hr style="border: none; height: 2px; background: #ff99cc;" />
 
-<h2 style="color: #ff66cc;"> Technologies & Tools</h2>
+##  Technologies & Tools
 
-<p align="left" style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native" style="filter: drop-shadow(0 0 4px #ff99cc);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" style="filter: drop-shadow(0 0 4px #ff99cc);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" style="filter: drop-shadow(0 0 4px #ff99cc);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" style="filter: drop-shadow(0 0 4px #ff99cc);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" style="filter: drop-shadow(0 0 4px #ff99cc);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" style="filter: drop-shadow(0 0 4px #ff99cc);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" style="filter: drop-shadow(0 0 4px #ff99cc);" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
 </p>
 
 <hr style="border: none; height: 2px; background: #ff99cc;" />
 
-<h2 style="color: #ff66cc;"> GitHub Stats</h2>
+##  GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HoGoodDev&show_icons=true&theme=pink&title_color=ff66cc&icon_color=ff66cc&text_color=ff99cc&bg_color=fff0f6" alt="GitHub stats" width="450" />
@@ -30,7 +30,7 @@
 
 <hr style="border: none; height: 2px; background: #ff99cc;" />
 
-<h2 style="color: #ff66cc;"> Top Languages</h2>
+##  Top Languages
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoGoodDev&langs_count=10&layout=compact&theme=pink&title_color=ff66cc&icon_color=ff66cc&text_color=ff99cc&bg_color=fff0f6" alt="Top languages by code size" width="450" />
@@ -38,9 +38,9 @@
 
 <hr style="border: none; height: 2px; background: #ff99cc;" />
 
-<h2 style="color: #ff66cc;"> Social Media</h2>
+## Social Media
 
-<p align="left" style="display: flex; gap: 12px; flex-wrap: wrap;">
+<p align="left">
   <a href="https://instagram.com/yourinstagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff66cc" alt="Instagram" />
   </a>
@@ -55,13 +55,10 @@
 <hr style="border: none; height: 2px; background: #ff99cc;" />
 
 
-<hr style="border: none; height: 2px; background: #ff99cc;" />
-
-<div style="background: #fff0f6; padding: 12px; border-radius: 20px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRlNTN5anRrczVnOHpyc2ZjZmh1eGk1ZWcyMG5oMDRiMm0zbGw1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mQan4KV9MNoJy/giphy.gif" alt="pink cherry blossom gif" style="width: 100%; max-width: 700px; border-radius: 20px;" />
-</div>
-
-<p align="center" style="color: #ff66cc; font-weight: bold;">
-   Thanks for stopping by!
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRlNTN5anRrczVnOHpyc2ZjZmh1eGk1ZWcyMG5oMDRiMm0zbGw1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mQan4KV9MNoJy/giphy.gif" alt="pink cherry blossom gif" width="100%" />
 </p>
 
+<p align="center" style="color: #ff66cc; font-weight: bold;">
+   🌸 Thanks for stopping by! 🌸
+</p>
