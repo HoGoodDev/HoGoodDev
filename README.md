@@ -11,7 +11,7 @@
 ## 🌸  GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoGoodDev&show_icons=true&theme=pink&title_color=ff66cc&icon_color=ff66cc&text_color=ff99cc&bg_color=fff0f6" alt="GitHub stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HoGoodDev&show_icons=true&theme=pink&title_color=ff66cc&icon_color=ff66cc&text_color=ff99cc&bg_color=fff0f6&cache_seconds=30" alt="GitHub stats" width="450" />
 </p>
 
 <hr style="border: none; height: 2px; background: #ff99cc;" />
@@ -19,7 +19,7 @@
 ## 🌸 Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoGoodDev&langs_count=10&layout=compact&theme=pink&title_color=ff66cc&icon_color=ff66cc&text_color=ff99cc&bg_color=fff0f6" alt="Top languages by code size" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoGoodDev&langs_count=10&layout=compact&theme=pink&title_color=ff66cc&icon_color=ff66cc&text_color=ff99cc&bg_color=fff0f6&cache_seconds=30" alt="Top languages by code size" width="450" />
 </p>
 
 <hr style="border: none; height: 2px; background: #ff99cc;" />
