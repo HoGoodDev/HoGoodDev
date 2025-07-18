@@ -8,7 +8,7 @@
 
 <hr style="border: none; height: 2px; background: #ff99cc;" />
 
-Founder and Co-Owner of Nullbyte Labs
+<strong style="color: #ff66cc;">Founder and Co-Owner of Nullbyte Labs</strong>
 
 <hr style="border: none; height: 2px; background: #ff99cc;" />
 
