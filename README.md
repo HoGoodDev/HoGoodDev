@@ -8,6 +8,10 @@
 
 <hr style="border: none; height: 2px; background: #ff99cc;" />
 
+Founder and Co-Owner of Nullbyte Labs
+
+<hr style="border: none; height: 2px; background: #ff99cc;" />
+
 ## 🌸  GitHub Stats
 
 <p align="left">
