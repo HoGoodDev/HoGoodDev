@@ -3,7 +3,7 @@
 <hr style="border: none; height: 2px; background: #ff99cc;" />
 
 <div align="center">
-  <strong style="color: #ff66cc;">I’m a 17 year old developer who loves making real impacts through technology and solving problems with code.</strong>
+  <strong style="color: #ff66cc;">I’m a 18 year old developer who loves making real impacts through technology and solving problems with code.</strong>
 </div>
 
 
