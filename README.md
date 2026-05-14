@@ -10,13 +10,13 @@
 ## 🌸 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoGoodDev&show_icons=true&theme=pink&title_color=ff66cc&icon_color=ff66cc&text_color=ff99cc&bg_color=fff0f6&count_private=true&include_all_commits=true" alt="GitHub stats" width="450" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HoGoodDev&theme=rose_pine_dawn" alt="GitHub stats" width="450" />
 </p>
 
 ## 🌸 Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoGoodDev&langs_count=10&layout=compact&theme=pink&title_color=ff66cc&icon_color=ff66cc&text_color=ff99cc&bg_color=fff0f6" alt="Top languages" width="450" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HoGoodDev&theme=rose_pine_dawn" alt="Top languages" width="450" />
 </p>
 
 ## 🌸 Streak
